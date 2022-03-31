@@ -1,4 +1,4 @@
 ###Learning goals
-- have fun
+- hi
 - code
 - sleep
