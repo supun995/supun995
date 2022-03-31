@@ -2,3 +2,4 @@
 - go home
 - code
 - sleep
+- wfh
