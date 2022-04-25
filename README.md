@@ -8,3 +8,5 @@ wfh
 New replace check
 
 push check
+
+Check remote connection
