@@ -10,3 +10,7 @@ New replace check
 push check
 
 Check remote connection
+
+pushing to master
+
+testing
