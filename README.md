@@ -12,3 +12,5 @@ push check
 Check remote connection
 
 pushing to master
+
+Gitlab mirror check
