@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **supunk995@gmail.com**
 
-# Blogs posts
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Securing CloudFront Distributions with AWS WAF: A Starting Guide](https://chanaka-supun.medium.com/securing-cloudfront-distributions-with-aws-waf-a-starting-guide-9ecf39ae6131?source=rss-319b94be464b------2)
 - [Handle Asynchronous REST API Calls with Amazon API Gateway and Amazon SQS](https://chanaka-supun.medium.com/handle-asynchronous-rest-api-calls-with-amazon-api-gateway-and-amazon-sqs-413ab3dbfe1f?source=rss-319b94be464b------2)
