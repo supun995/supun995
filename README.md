@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Public Regional API Gateway to Private API Gateway : Cross-Account Integration](https://chanaka-supun.medium.com/public-regional-api-gateway-to-private-api-gateway-cross-account-integration-1dcecf0e9e1f?source=rss-319b94be464b------2)
 - [Securing CloudFront Distributions with AWS WAF: A Starting Guide](https://chanaka-supun.medium.com/securing-cloudfront-distributions-with-aws-waf-a-starting-guide-9ecf39ae6131?source=rss-319b94be464b------2)
 - [Handle Asynchronous REST API Calls with Amazon API Gateway and Amazon SQS](https://chanaka-supun.medium.com/handle-asynchronous-rest-api-calls-with-amazon-api-gateway-and-amazon-sqs-413ab3dbfe1f?source=rss-319b94be464b------2)
 - [Lambda IP Usage Monitoring with Load](https://chanaka-supun.medium.com/lambda-ip-usage-monitoring-with-load-1f7de882253f?source=rss-319b94be464b------2)
-- [Event Driven Architecture with Amazon API Gateway, Event Bridge, Lambda,SNS,SQS in Multi-Account…](https://chanaka-supun.medium.com/event-driven-architecture-with-amazon-api-gateway-event-bridge-lambda-sns-sqs-in-multi-account-7fa61328f775?source=rss-319b94be464b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
