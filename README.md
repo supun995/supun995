@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Automated Massive Number of Nested API Calls Using AWS Step Functions](https://chanaka-supun.medium.com/how-i-automated-massive-number-of-nested-api-calls-using-aws-step-functions-ace96867d5b8?source=rss-319b94be464b------2)
 - [Cross‑Region Performance Analysis of Applications with AWS Aurora Serverless v2: Write Latency…](https://chanaka-supun.medium.com/cross-region-performance-analysis-of-applications-with-aws-aurora-serverless-v2-write-latency-019903dfaf04?source=rss-319b94be464b------2)
 - [Transfer Data Between Amazon S3 Buckets Across AWS Accounts with AWS DataSync](https://awstip.com/transfer-data-between-amazon-s3-buckets-across-aws-accounts-with-aws-datasync-b923feb3d92c?source=rss-319b94be464b------2)
 - [Public Regional API Gateway to Private API Gateway : Cross-Account Integration](https://awstip.com/public-regional-api-gateway-to-private-api-gateway-cross-account-integration-1dcecf0e9e1f?source=rss-319b94be464b------2)
-- [Securing CloudFront Distributions with AWS WAF: A Starting Guide](https://chanaka-supun.medium.com/securing-cloudfront-distributions-with-aws-waf-a-starting-guide-9ecf39ae6131?source=rss-319b94be464b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
